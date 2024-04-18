@@ -1,0 +1,34 @@
+baseURL: "https://hugo-dead-simple.netlify.com/"
+languageCode: en-us
+title: "Hugo dead simple example"
+enableGitInfo: false
+theme: "dead-simple"
+menu:
+  main:
+    - name: "<u>H</u>ome"
+      url: /
+      weight: 1
+    - name: "<u>T</u>ags"
+      url: "/tags"
+      weight: 3
+
+params:
+  description: "Hugo dead simple example"
+
+markup:
+  highlight:
+    codeFences: true
+    style: bw
+    lineNumbersInTable: false
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
+  page:
+    - html
