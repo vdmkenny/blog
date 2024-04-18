@@ -1,4 +1,4 @@
-baseURL: "https://vdmkenny.github.io/blog/"
+baseURL: "https://vdmkenny.github.io/"
 languageCode: en-us
 title: "Kenny's Blog"
 enableGitInfo: true
