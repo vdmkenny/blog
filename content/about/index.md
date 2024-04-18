@@ -1,8 +1,6 @@
 ---
-title: About
+title: About Me
 ---
-# About Me
-
 Hi there! I'm Kenny, a DevOps Engineer based in Belgium. I'm passionate about open source tech and have hands-on experience in cloud computing, automation, and infrastructure as code.
 
 Beyond work, I enjoy a range of hobbies like motorsports, analog photography, retro gaming, and DIY electronics. I might write about any of these interests or whatever else catches my eye.
