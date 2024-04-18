@@ -1,7 +1,7 @@
-baseURL: "https://hugo-dead-simple.netlify.com/"
+baseURL: "https://vdmkenny.github.io/blog/"
 languageCode: en-us
-title: "Hugo dead simple example"
-enableGitInfo: false
+title: "Kenny's Blog"
+enableGitInfo: true
 theme: "dead-simple"
 menu:
   main:
