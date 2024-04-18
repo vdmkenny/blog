@@ -8,6 +8,9 @@ menu:
     - name: "<u>H</u>ome"
       url: /
       weight: 1
+    - name: "<u>A</u>bout"
+      url: "/about"
+      weight: 2
     - name: "<u>T</u>ags"
       url: "/tags"
       weight: 3
