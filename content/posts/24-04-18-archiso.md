@@ -1,6 +1,6 @@
 ---
 title: "Creating a custom Archlinux ISO"
-subtitle: "Using Archiso to create a custom Archlinux ISO with custom packages and configurations"
+subtitle: "Using Archiso to create a custom interactive installer USB drive."
 date: "2024-04-18"
 toc: true # table of contents (only h2 and h3 added to toc)
 bold: true # display post title in bold in posts list
