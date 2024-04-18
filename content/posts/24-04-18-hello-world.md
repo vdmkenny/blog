@@ -10,6 +10,7 @@ categories:
 tags:
   - test
 next: true # show link to next post in footer
+draft: false
 ---
 
 My previous blog went unused for a long time, so I decided to start fresh with a new one. I'm going to write about things I find interesting, mostly related to Open Source, DevOps, and any hobby projects I'm working on.
