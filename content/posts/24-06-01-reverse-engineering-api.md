@@ -82,7 +82,7 @@ cookies = {
 
 # Sending the request
 response = requests.get(url, headers=headers, cookies=cookies)
-print(response)
+print(response.text)
 ```
 
 ```
