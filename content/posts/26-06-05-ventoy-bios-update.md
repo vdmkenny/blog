@@ -21,7 +21,7 @@ However, even though this is now a 12 year old model, being a sturdy 12.5" devic
 
 It has modest specs, Intel i5-3320M, only 8GB of DDR3 RAM, a good looking 720p screen, and all the nice Thinkpad features of the past.
 
-Chinesium 94Wh batteries are still readily availably, so it seems optimal for a traveling machine.
+Chinesium 94Wh batteries are still readily available, so it seems optimal for a traveling machine.
 
 I had a look at the bios version using `dmidecode`, and it shows it's on version 2.02 released in 2012.
 
