@@ -124,7 +124,7 @@ With this, I've finished yet another procrastination task instead of doing actua
 
 More importantly, I've put old hardware to work, and extended its life somewhat. This always feels good.
 
-This has proven a good way to update the firmware of a legacy system without having to resort to optical media, an old Windows version. 
+This has proven a good way to update the firmware of a legacy system without having to resort to optical media or an old Windows version. 
 
 Of course, this would only work on a device old enough to have no fwupd support, but young enough to support USB booting.
 
