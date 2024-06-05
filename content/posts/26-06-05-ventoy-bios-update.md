@@ -122,4 +122,10 @@ After a reboot, I could gloat about a command now outputting a slightly bigger n
 
 With this, I've finished yet another procrastination task instead of doing actual preparation for my Japan trip later this year.
 
-This has proven a good way to update a legacy system without having to resort to an old Windows version. I hope this helps!
+More importantly, I've put old hardware to work, and extended its life somewhat. This always feels good.
+
+This has proven a good way to update the firmware of a legacy system without having to resort to optical media, an old Windows version. 
+
+Of course, this would only work on a device old enough to have no fwupd support, but young enough to support USB booting.
+
+I hope this helps!
